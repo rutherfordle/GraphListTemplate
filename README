@@ -1,0 +1,10 @@
+Rutherford Le
+Rle
+PA5
+
+Files: FindComponents.c, List.c, Graph.c, GraphTest.c Graph.h List.h, Makefile, README
+
+Description: Put input from file into a list. The list is fully able to be manipulated.
+Then do DFS and find strongest components.
+Should work properly with the Makefile.
+Have a nice break!
